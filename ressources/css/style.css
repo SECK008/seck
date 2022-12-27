@@ -163,14 +163,13 @@
 .card:hover{
     box-shadow: 1px 1px 5px maroon;
 }
-.card-img-top {
+/* .card-img-top {
     height: 100%;
     width: 100%;
     
-}
+} */
 .titre_formation{
     text-align: center;
-    margin: 2%;
 }
 .titre_seja {
     text-align: center;
