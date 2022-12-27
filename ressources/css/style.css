@@ -154,12 +154,12 @@
     border-radius: 5px;
 
 } */
-/* .card  {
+.card  {
     margin-left: 5%;    
     margin-right: 5%;
 
     
-} */
+}
 .card:hover{
     box-shadow: 1px 1px 5px maroon;
 }
